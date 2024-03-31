@@ -132,6 +132,7 @@ module.exports = [
   '2006 Elgrand Horizon',
   '2006 Falcon Aquarius',
   '2006 Falcon Traveller',
+  '2006 Ferdinand Ultima',
   '2006 Maverick Valiant',
   '2006 Overland Buckaroo',
   '2006 Shizuoka Chief',
