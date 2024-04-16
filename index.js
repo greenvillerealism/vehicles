@@ -25,7 +25,7 @@ module.exports = [
   '1971 Mayflower Orbiter',
   '1971 Stuttgart Uhlenhaut',
   '1972 Falcon Pony',
-  '1972 Navara Stuttgart',
+  '1972 Navara Star',
   '1975 BKM Rheine',
   '1981 Ferdinand Rapido',
   '1981 Wynne Model-12 Futureline Mk2',
